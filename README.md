@@ -2,7 +2,7 @@
 
 you guys already know what this game is. oh actually theres a computer instead of being 2 people
 
-![screenshot of the game](game.png)
+![screenshot of the game](img/game.png)
 
 ## coding process
 
@@ -16,4 +16,4 @@ so the way the computer works is that it stores all the empty coordinates into a
 
 maybe in the future ill actually implement some sort of intelligence so that it makes logical moves... until then tho this is all i have
 
-![screenshot of winning](win.png)
+![screenshot of winning](img/win.png)
